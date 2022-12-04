@@ -1,4 +1,5 @@
 ### Best-speed-vpn
+如果机场不能访问挂最下面的免费节点
 优秀平价机场推荐
 
 ####1.xmrth 
@@ -16,11 +17,11 @@ https://t.me/shenseven_bot?start=ATdP42Zk
 下载链接（推荐使用浏览器访问）：https://bitbucket.org/letsgogo/letsgogo_5/src/master/
 备用链接（推荐使用浏览器访问）：https://github.com/LetsGo666/LetsGo_2
 安装后打开填写我的ID：29851617 你能多得3天会员！
+
+
 ####免费节点采集
 免费订阅
 免费的速度够用了，稳定中
-
-
 https://nodefree.org/dy/202211/20221127.yaml
 
 https://suo.yt/EOglaRF
