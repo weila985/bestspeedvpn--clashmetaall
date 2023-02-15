@@ -3,8 +3,10 @@
 优秀平价机场推荐
 
 每月免费流量30g，每月重置无限试用
-https://idcdirect.com/#/register?code=z66SwIzk
+https://idcdirect.com/#/register?code=z66SwIzk 
 
+******可乐云。每月20/每天350g起步
+https://colacloud.net/index.php#/register?code=mjNg3bO4
 ####1.xmrth 
 有免费体验优惠码xmrth
 2元起步稳定可靠
