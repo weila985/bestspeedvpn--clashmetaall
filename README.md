@@ -2,7 +2,7 @@
 如果机场不能访问挂最下面的免费节点
 优秀平价机场推荐
 
-####1.xmrth 
+####1.xmrth 推荐clash使用。经常更新订阅…稳定可靠…最实惠的
 有免费体验优惠码xmrth
 2元起步稳定可靠
 https://xmrth.vip/auth/register?code=qc58
