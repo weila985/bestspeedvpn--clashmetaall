@@ -2,6 +2,13 @@
 如果机场不能访问挂最下面的免费节点
 优秀平价机场推荐
 
+####月付1元,每月百g
+https://xn--mes91r2ng7p4a.com/#/register?code=rvL7YuAE
+
+####可乐云，高端机场试用1g
+https://my.kelecloud.xyz/#/register?code=aalQI350
+
+
 ####1.xmrth 推荐clash使用。经常更新订阅…稳定可靠…最实惠的
 有免费体验优惠码xmrth
 2元起步稳定可靠
