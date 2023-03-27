@@ -12,7 +12,7 @@ https://my.kelecloud.xyz/#/register?code=aalQI350
 ####1.xmrth 推荐clash使用。经常更新订阅…稳定可靠…最实惠的
 有免费体验优惠码xmrth
 2元起步稳定可靠
-https://xmrth.vip/auth/register?code=qc58
+https://xmrth.cc/auth/register?code=11no
 
 ####2.百变小樱
 有免费试用，一直稳定
