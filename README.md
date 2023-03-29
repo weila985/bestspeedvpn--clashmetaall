@@ -6,7 +6,7 @@
 https://xn--mes91r2ng7p4a.com/#/register?code=rvL7YuAE
 
 ####可乐云，高端机场试用1g
-https://my.kelecloud.xyz/#/register?code=aalQI350
+https://my.kelecloud.xyz/#/register?code=AqrM1pxI
 
 
 ####1.xmrth 推荐clash使用。经常更新订阅…稳定可靠…最实惠的
