@@ -1,6 +1,8 @@
-### Best-speed-vpn
+### Best-speed-vpn 推荐xmrth 稳定，其他自行备几个好用的。避免找不到备用
 如果机场不能访问挂最下面的免费节点
 优秀平价机场推荐
+###月付9元200g起
+https://uuclm.buzz/#/register?code=EIINxV5m
 
 ####月付1元,每月百g
 https://xn--mes91r2ng7p4a.com/#/register?code=rvL7YuAE
