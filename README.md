@@ -14,7 +14,7 @@ https://xn--mes91r2ng7p4a.com/#/register?code=rvL7YuAE
 https://my.kelecloud.xyz/#/register?code=AqrM1pxI
 
 
-推荐推荐### 1.xmrth 推荐clash使用。经常更新订阅…稳定可靠…最实惠的
+## 推荐推荐 1.xmrth 推荐clash使用。经常更新订阅…稳定可靠…最实惠的
 有免费体验优惠码xmrth
 2元起步稳定可靠现在5元起步，每月1.5t1500g
 https://xmrth.cc/auth/register?code=11no
