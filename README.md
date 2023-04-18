@@ -5,7 +5,7 @@
   
 ### 优秀平价机场推荐
 
-### xmrth 推荐clash使用 5元起步，每月1.5t1500g
+### xmrth 推荐clash使用 5元起步，每月1.5t 1500g
 https://xmrth.cc/auth/register?code=11no
 
 ### letsvpn
