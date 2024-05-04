@@ -6,7 +6,7 @@
 ### 优秀平价机场推荐
 
 ### xmrth 推荐clash使用 5元起步，每月1.5t 1500g
-https://xmrth.com/auth/register?code=11no
+https://xmrth.lol/auth/register?code=11no
 
 ### letsvpn
 这是一个永远都能连上的梯子，上线三年来一直稳定没有被封过！
