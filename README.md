@@ -14,16 +14,6 @@ https://xmrth.com/auth/register?code=11no
 备用链接（推荐使用浏览器访问）：https://github.com/LetsGo666/LetsGo_2
 安装后打开填写我的ID：115540655 你能多得3天会员！
 
-
-### 月付9元200g起
-https://uuclm.buzz/#/register?code=EIINxV5m
-
-### 月付1元,每月百g
-https://xn--mes91r2ng7p4a.com/#/register?code=rvL7YuAE
-
-### 可乐云，高端机场试用1g
-https://my.kelecloud.xyz/#/register?code=AqrM1pxI
-
 ### 免费节点采集
 免费订阅
 免费的速度够用了，稳定中
