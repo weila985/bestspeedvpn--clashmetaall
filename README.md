@@ -14,6 +14,14 @@ https://xmrth.lol/auth/register?code=11no
 备用链接（推荐使用浏览器访问）：https://github.com/LetsGo666/LetsGo_2
 安装后打开填写我的ID：505390760 你能多得3天会员！
 
+### 西部世界
+给大家安利个超靠谱的梯子，注册免费送三天，全站专线不限速！
+速度超快，秒开YouTube、Ins，还能看奈飞/Netflix、Hulu、HBO、动画疯、TVB、Apple TV...
+全球加速：香港 / 韩国 / 台湾 / 美国 / 日本 / 英国 等20个地区
+优质线路：IEPL / IPLC 国际专线、Anycast BGP 网络
+全 平 台：支持手机、电脑、路由器同时使用
+无惧封锁：海外企业安全稳定，Trojan、V2Ray协议超强抗封锁
+※立即使用西部世界: https://xbsj6148.xyz/i/iv240519/KQL4NCE
 ### 免费节点采集
 免费订阅
 免费的速度够用了，稳定中
