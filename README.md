@@ -2,7 +2,20 @@
  （推荐xmrth 稳定，其他自行备几个好用的。避免找不到备用）
 ### 如果机场不能访问挂最下面的免费节点
 ### 特殊时期，节点可能需要更改clash，v2ray…trojan网络设置
-  
+
+## 客户端下载  github不能访问的可以访问网盘链接
+
+### 网盘链接
+链接: https://pan.baidu.com/s/1nvZ5mIp4jmpcevq5Ym_zqg?pwd=9999 提取码: 9999
+### Android clashmeta for Android  
+https://github.com/CodeFreer/ClashMetaForAndroid?tab=readme-ov-file 
+
+### Windows clash中文版 
+https://github.com/Z-Siqi/Clash-for-Windows_Chinese
+
+### mac  clashx pro
+在网盘
+
 ### 优秀平价机场推荐
 
 ### xmrth 推荐clash使用 5元起步，每月1.5t 1500g
