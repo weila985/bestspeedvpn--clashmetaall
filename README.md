@@ -1,3 +1,12 @@
+
+广告  speedtest.cn
+好友邀你免费体验最高700M宽带
+打开【测速网】链接 http://forge.speedtest.cn/api/v2/balance/redirect?id=12872263&source_type=kuandai
+
+
+
+
+
 ## Best-speed-vpn (推荐使用clash所有节点)
  （推荐xmrth 稳定，其他自行备几个好用的。避免找不到备用）
 ### 如果机场不能访问挂最下面的免费节点
