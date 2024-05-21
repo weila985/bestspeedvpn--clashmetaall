@@ -14,8 +14,8 @@
 https://xmrth.lol/auth/register?code=11no
 
 ### 飞机云
-[
-](https://feijiyun38.xyz/auth/register?code=vgBZ)
+https://feijiyun38.xyz/auth/register?code=vgBZ
+9.9每月100g
 
 
 ### letsvpn
