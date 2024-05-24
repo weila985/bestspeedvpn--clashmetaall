@@ -13,6 +13,12 @@
 ### xmrth 推荐clash使用 5元起步，每月1.5t 1500g
 https://xmrth.lol/auth/register?code=11no
 
+
+### 大讯云
+
+daxun.top
+邀请码 9BJemZhC 
+
 ### 飞机云
 https://feijiyun38.xyz/auth/register?code=vgBZ
 9.9每月100g
