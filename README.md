@@ -5,6 +5,12 @@
 
 # 不定期更新
 
+### letsvpn
+这是一个永远都能连上的梯子，上线三年来一直稳定没有被封过！
+下载链接（推荐使用浏览器访问）：https://bitbucket.org/letsgogo/letsgogo_5/src/master/
+备用链接（推荐使用浏览器访问）：https://github.com/LetsGo666/LetsGo_2
+安装后打开填写我的ID：304879576  你能多得3天会员！
+
 
 ## Best-speed-vpn (推荐使用clash所有节点)
  （推荐xmrth 稳定，其他自行备几个好用的。避免找不到备用）
@@ -29,12 +35,6 @@ https://www.eevpnsafe.com/#/register?code=7ORwBSjH
 ### 飞机云
 https://feijiyun38.xyz/auth/register?code=vgBZ
 9.9每月100g
-
-### letsvpn
-这是一个永远都能连上的梯子，上线三年来一直稳定没有被封过！
-下载链接（推荐使用浏览器访问）：https://bitbucket.org/letsgogo/letsgogo_5/src/master/
-备用链接（推荐使用浏览器访问）：https://github.com/LetsGo666/LetsGo_2
-安装后打开填写我的ID：304879576  你能多得3天会员！
 
 ### 西部世界
 给大家安利个超靠谱的梯子，注册免费送三天，全站专线不限速！
