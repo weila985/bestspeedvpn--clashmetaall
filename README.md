@@ -13,8 +13,9 @@
 ### xmrth 推荐clash使用 5元起步，每月1.5t 1500g
 https://xmrth.lol/auth/register?code=11no
 
-
-### 大讯云
+### eevpn  月9.9起
+https://www.eevpnsafe.com/#/register?code=7ORwBSjH
+### 大讯云  月9.9起
 
 daxun.top
 邀请码 9BJemZhC 
