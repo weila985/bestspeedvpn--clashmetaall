@@ -13,6 +13,8 @@
 ### xmrth 推荐clash使用 5元起步，每月1.5t 1500g
 https://xmrth.lol/auth/register?code=11no
 
+### 狗子快跑 有免费套餐 100g月 月0-9.9
+https://www.freedog.me/auth/register?code=fUGs
 ### eevpn  月9.9起
 https://www.eevpnsafe.com/#/register?code=7ORwBSjH
 ### 大讯云  月9.9起
