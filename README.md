@@ -25,14 +25,11 @@ https://xmrth.lol/auth/register?code=11no
 ### 狗子快跑 有免费套餐 100g月 月0-9.9
 https://www.freedog.me/auth/register?code=fUGs
 
-### 百变小樱 月9.9起
-https://bbxy.buzz/auth/register?code=i2rk
-
 ### eevpn  月9.9起
 https://www.eevpnsafe.com/#/register?code=7ORwBSjH
 
 ### 大讯云  月9.9起
-[](daxun.top)
+daxun.top
 邀请码 9BJemZhC 
 
 ### 飞机云
