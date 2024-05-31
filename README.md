@@ -28,10 +28,6 @@ https://www.freedog.me/auth/register?code=fUGs
 ### eevpn  月9.9起
 https://www.eevpnsafe.com/#/register?code=7ORwBSjH
 
-### 飞机云
-https://feijiyun38.xyz/auth/register?code=vgBZ
-9.9每月100g
-
 ### 免费节点采集
 免费订阅
 免费的速度够用了，稳定中
