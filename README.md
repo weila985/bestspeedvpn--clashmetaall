@@ -1,8 +1,3 @@
-
-###   speedtest.cn
-好友邀你免费体验最高700M宽带
-打开【测速网】链接 http://forge.speedtest.cn/api/v2/balance/redirect?id=12872263&source_type=kuandai
-
 # 不定期更新
 
 # 好用的在线网盘 pikpak 无限速秒上传离线下载
