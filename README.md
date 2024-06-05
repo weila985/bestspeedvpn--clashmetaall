@@ -1,5 +1,5 @@
 
-### 广告  speedtest.cn
+###   speedtest.cn
 好友邀你免费体验最高700M宽带
 打开【测速网】链接 http://forge.speedtest.cn/api/v2/balance/redirect?id=12872263&source_type=kuandai
 
@@ -9,7 +9,6 @@
 https://mypikpak.com/drive/activity/invited?invitation-code=938597
 邀请码 938597
 ### letsvpn
-想要在 Facebook、Twitter 交外国好友？用这个梯子试试吧！
 下载链接（推荐使用 Chrome 浏览器访问）：https://bitbucket.org/letsgo666/letsgogo/src/main
 备用链接（推荐使用 Chrome 浏览器访问）：https://github.com/LetsgoNetwork/LetsGo_1/blob/main/README.md
 安装后打开填写我的ID：356083720 你能多得3天会员！
